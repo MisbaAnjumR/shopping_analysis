@@ -1,6 +1,6 @@
 # Customer Behavior Analysis
 
-This project analyzes a dataset containing customer shopping behavior to generate insights on purchasing patterns, customer demographics, and product trends. It uses Python, SQL, and Power BI for end-to-end data processing and visualization.
+This project analyzes a dataset containing customer shopping behavior to generate insights on purchasing patterns, customer demographics, and product trends. It uses Python, Pandas and  SQL Litefor end-to-end data processing and visualization.
 
 ## Project Structure
 
